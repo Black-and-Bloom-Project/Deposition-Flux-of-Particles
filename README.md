@@ -3,7 +3,7 @@
 Version of this script: v26 (last update: 25/11/2020)
 Author: Nuno Canha
 
-# Goal of the script:
+# Goal of the script
 This python script aims to calculate the deposition flux of particles, based on the particles deposition velocity and their concentration (obtained from monitored OPC data).
 For this calculation, two previously obtained datasets are needed: 
 - dry deposition database (output of "DDV script" script, namely "DDV_final.csv")
