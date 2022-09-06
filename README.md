@@ -1,4 +1,4 @@
-# Calculation of Deposition Flux of particles 
+# Calculation of the Dry Deposition Flux of particles 
 
 Version of this script: v26 (last update: 25/11/2020)
 Author: Nuno Canha
